@@ -1,4 +1,62 @@
 {
-  "products": [],
-  "categories": []
+  "products": [
+    {
+      "id": 0,
+      "name": "The Legend of Zelda",
+      "price": 250,
+      "image": "https://s1.gaming-cdn.com/images/products/4860/orig/game-nintendo-the-legend-of-zelda-breath-of-the-wild-2-switch-cover.jpg",
+      "offer": false,
+      "category": [1, 2],
+      "description": "New Zelda game",
+      "discount": 0
+    },
+    {
+      "id": 1,
+      "name": "Super Mario 64",
+      "price": 220,
+      "image": "https://preview.redd.it/96e9f3itf0i51.jpg?auto=webp&s=11b3288412e6f048e4f59db22ebd91c0d50b1664",
+      "offer": false,
+      "category": [1],
+      "description": "Old Super Mario 64 for Nintendo 64",
+      "discount": 0
+    },
+
+    {
+      "id": 2,
+      "name": "Sonic Sock",
+      "price": 80,
+      "image": "https://cdn.shoplightspeed.com/shops/602409/files/463107/sega-sonic-with-blue-spikes-crew-socks.jpg",
+      "offer": false,
+      "category": [6],
+      "description": "A cool sonic sock",
+      "discount": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Action"
+    },
+    {
+      "id": 1,
+      "name": "Adventure"
+    },
+    {
+      "id": 2,
+      "name": "RPG"
+    },
+    {
+      "id": 3,
+      "name": "Sports"
+    },
+    {
+      "id": 4,
+      "name": "Strategy"
+    },
+    {
+      "id": 5,
+      "name": "Socks"
+    }
+  ],
+  "newsletter": []
 }
